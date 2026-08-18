@@ -1,0 +1,29 @@
+{
+"Customers":[{
+  "salary": "99999",
+  "id": null,
+  "firstName": null,
+  "name": null,
+  "contacts": [{
+  "id": 0,
+  "name": null,
+  "birthDate": null,
+  "phone": null,
+  "address": [{
+  "id": null,
+  "place": null
+}]
+}],
+  "sales": [{
+  "id": null,
+  "dateStart": "0001-01-01T00:00:00",
+  "summa": 0
+}],
+  "equipments": [{
+  "id": null,
+  "dateStart": "0001-01-01T00:00:00",
+  "dateEnd": "0001-01-01T00:00:00",
+  "status": null
+}]
+}]
+}
