@@ -2,28 +2,28 @@
 "Customers":[{
   "salary": "99999",
   "id": null,
-  "firstName": null,
-  "name": null,
+  "firstName": "Ivanov",
+  "name": "Mike",
   "contacts": [{
   "id": 0,
-  "name": null,
-  "birthDate": null,
-  "phone": null,
+  "name": "name contacts",
+  "birthDate": "0001-01-01T00:00:00",
+  "phone": 1-345-091-001-2,
   "address": [{
-  "id": null,
-  "place": null
+  "id": "123",
+  "place": "current place"
 }]
 }],
   "sales": [{
-  "id": null,
+  "id": "123",
   "dateStart": "0001-01-01T00:00:00",
-  "summa": 0
+  "summa": "190"
 }],
   "equipments": [{
-  "id": null,
+  "id": 981,
   "dateStart": "0001-01-01T00:00:00",
   "dateEnd": "0001-01-01T00:00:00",
-  "status": null
+  "status": "Valid"
 }]
 }]
 }
